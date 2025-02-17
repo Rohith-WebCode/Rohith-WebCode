@@ -1,7 +1,7 @@
 # Hello 👋, I'm rohith prakash
 
 
-# Full-Stack Developer | Building, Learning, Evolving.
+Full-Stack Developer | Building, Learning, Evolving.
 
 
 ## 🌐 Socials:
